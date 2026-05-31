@@ -24,7 +24,7 @@ window.PROGRAMACAO = {
       { time: '00:00', title: 'Itatiaia é a Dona da Noite' },
       { time: '04:00', title: 'Café com Notícia' },
       { time: '06:00', title: 'Tiro de Meta' },
-      { time: '06:30', title: 'Jornal da CBN'
+      { time: '06:30', title: 'Jornal da CBN' },
       { time: '07:00', title: 'Jornal da Itatiaia' },
       { time: '09:00', title: 'Horário Livre' },
       { time: '10:00', title: 'Super Sábado' },
