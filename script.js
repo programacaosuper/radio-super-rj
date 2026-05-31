@@ -245,15 +245,15 @@ document.addEventListener('DOMContentLoaded', () => {
   // ---------- PLACARES (dados e render) ----------
   const placares = [
     {
-      campeonato: "Copa do Brasil",
-      status: "ENCERRADO",
-      data: "12/05",
-      hora: "21:30",
-      time_casa: "Cruzeriro",
+      campeonato: "Amistosos da Seleção",
+      status: "AO VIVO",
+      data: "31/05",
+      hora: "18:30",
+      time_casa: "Brasil",
       escudo_casa: "https://upload.wikimedia.org/wikipedia/commons/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg",
       gols_casa: 1,
-      time_fora: "Goiás",
-      escudo_fora: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Goi%C3%A1s_Esporte_Clube_logo.svg/250px-Goi%C3%A1s_Esporte_Clube_logo.svg.png",
+      time_fora: "Panamá",
+      escudo_fora: "https://upload.wikimedia.org/wikipedia/commons/3/30/Coat_of_arms_of_Panama.svg",
       gols_fora: 0
     },
     {
