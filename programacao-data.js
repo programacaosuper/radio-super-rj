@@ -45,7 +45,7 @@ window.PROGRAMACAO = {
       { time: '09:00', title: 'Horário Livre 1ª Edição' },
       { time: '10:00', title: 'Super Domingo/Futebol Globo CBN' },
       { time: '11:00', title: 'Horário Livre 2ª Edição/Futebol Globo CBN' },
-      { time: '12:00', title: 'PARADÃO SERTANEJO/Futebol Globo CBN },
+      { time: '12:00', title: 'PARADÃO SERTANEJO/Futebol Globo CBN' },
       { time: '13:00', title: 'Domingão Esportivo/Futebol Globo CBN' },
       { time: '15:00', title: 'Futebol Globo CBN/CBN Show da Noticia' },
       { time: '20:00', title: 'Noite Livre' },
