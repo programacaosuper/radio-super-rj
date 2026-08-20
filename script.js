@@ -246,7 +246,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const placares = [
     {
       campeonato: "Copa Libertadores",
-      status: "AO VIVO",
+      status: "ENCERRADO",
       data: "19/09",
       hora: "21:30",
       time_casa: "Flamengo",
