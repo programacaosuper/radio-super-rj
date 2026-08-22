@@ -252,7 +252,7 @@ document.addEventListener('DOMContentLoaded', () => {
       time_casa: "Flamengo",
       escudo_casa: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Clube_de_Regatas_do_Flamengo_logo.svg/250px-Clube_de_Regatas_do_Flamengo_logo.svg.png?utm_source=pt.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       gols_casa: 1,
-      time_fora: "Cruzeiro",
+      time_fora: "Cru.",
       escudo_fora: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg/250px-Cruzeiro_Esporte_Clube_%28logo%29.svg.png?utm_source=pt.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       gols_fora: 0
     },
@@ -273,7 +273,7 @@ document.addEventListener('DOMContentLoaded', () => {
       status: "A SEGUIR",
       data: "22/08",
       hora: "20:30",
-      time_casa: "Cruzeiro",
+      time_casa: "Cru.",
       escudo_casa: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg/250px-Cruzeiro_Esporte_Clube_%28logo%29.svg.png?utm_source=pt.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       gols_casa: null,
       time_fora: "Flamengo",
@@ -300,7 +300,7 @@ document.addEventListener('DOMContentLoaded', () => {
       time_casa: "Botafogo",
       escudo_casa: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Botafogo_de_Futebol_e_Regatas_logo.svg/250px-Botafogo_de_Futebol_e_Regatas_logo.svg.png?utm_source=pt.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       gols_casa: null,
-      time_fora: "Athletico",
+      time_fora: "Ath.",
       escudo_fora: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Athletico_Paranaense_%28Logo_2019%29.svg/120px-Athletico_Paranaense_%28Logo_2019%29.svg.png?utm_source=pt.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       gols_fora: null
     }
